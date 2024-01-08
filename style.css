@@ -1,0 +1,29 @@
+body {
+    background-image: url('https://www.pixelstalk.net/wp-content/uploads/2016/06/Light-Blue-HD-Backgrounds.jpg');
+    background-position: center;
+}
+
+.form {
+    position: relative;
+    width: 400px;
+    background-color: white;
+    margin-left: 35%;
+    margin-top: 20px;
+    border-radius: 20px;
+    padding: 20px;
+    font-weight: bolder;
+    color: black;
+    font-weight: bold;
+}
+
+.signup {
+    background-color: blue;
+    color: white;
+    height: 50px;
+    width: 100px;
+    border-radius: 20px;
+    margin-left: 130px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
